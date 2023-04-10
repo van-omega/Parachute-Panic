@@ -1,6 +1,5 @@
 # Parachute-Panic
-A game created in Java to demonstrate various data structures in Java (Stack, Queue, Tree). Threads were also used to create the animation.
-[Subject for refactoring since this was coded before my IT industry years]
+A game created in Java to demonstrate various data structures in Java (Stack, Queue, Tree). Threads were also used to create the animation.[Subject for refactoring since this was coded before my IT industry years]
 
 **Splash Screen**
 ![image](https://user-images.githubusercontent.com/42210250/230814949-757d0995-927f-4018-ba86-e13b9fc59bd8.png)
@@ -17,7 +16,7 @@ A game created in Java to demonstrate various data structures in Java (Stack, Qu
 **Credits Screen**
 ![image](https://user-images.githubusercontent.com/42210250/230815327-b7fe4627-6214-407b-bc0d-3ed4f612e3c7.png)
 
-**Game Screen **
+**Game Screen**
 ![image](https://user-images.githubusercontent.com/42210250/230815410-a6644221-3b0a-4b0e-8a4f-b84528c8b076.png)
 
 ![image](https://user-images.githubusercontent.com/42210250/230815710-44432c00-9059-4466-980f-e28e7383f212.png)
